@@ -1,2 +1,2 @@
 # udemyCourse
-there some tasks from udemyCourse for JS
+here some tasks from udemyCourse for JS
